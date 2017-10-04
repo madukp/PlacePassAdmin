@@ -1,0 +1,6 @@
+com\aet\placepassadmin\scenarios\LoginNegativeScenarios.class
+com\aet\placepassadmin\setup\SetUp.class
+com\aet\placepassadmin\pageobjects\LoginPage.class
+com\aet\placepassadmin\pageobjects\PartnerPage.class
+com\aet\placepassadmin\scenarios\LoginPositiveScenarios.class
+com\aet\placepassadmin\test\TestRun.class
